@@ -12,20 +12,35 @@ For that, our domain experts and data analysts met with the client at Quikr's he
 Now we observe the each features present in the dataset.<br>
 
 Make: The Make feature is the brand name of the Car.
+
 Model: The Model feature is the brand of model or different version of Car models.
+
 Year: The year describes the year of launched.
+
 Engine Fuel Type: It defines the Fuel type of the car model.
+
 Engine HP: Engine HP means Horsepower that refers to the power an engine produces.
+
 Engine Cylinders: Engine Cylinders are number of cylinders in present in the engine.
+
 Transmission Type: It is the type of feature that describe about the car transmission type i.e Mannual or automatic.
+
 Driven_Wheels: The type of wheel drive.
+
 No of doors: It defined nos of doors present in the car.
+
 Market Category: This features tells about the type of car or which category the car belongs.
+
 Vehicle Size: It's say about the about car size.
+
 Vehicle Style: The feature is all about the style that belongs to car.
+
 highway MPG: The average a car will get while driving on an open stretch of road without stopping or starting, typically at a higher speed.
+
 city mpg: City MPG refers to driving with occasional stopping and braking.
+
 Popularity: It can refered to rating of that car or popularity of car.
+
 MSRP: The price of that car.
 
 In order to detect patterns in the dataset using the aforementioned features and attributes supplied by the client, the client wishes to train a machine learning pipeline. Once the user provides new information, our ML model will then automatically predict the price of the car.
